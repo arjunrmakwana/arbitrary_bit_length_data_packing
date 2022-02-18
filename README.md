@@ -1,4 +1,4 @@
-# bitwise_data_packing
+# arbitrary_bit_length_data_packing
 
 Processors usually have a fixed smallest word sie that you can access. This is usually a multiple
 of 8 bits in most modern architecutres. So lets say you want to store some data that you know 
