@@ -1,6 +1,6 @@
 # arbitrary_bit_length_data_packing
 
-Processors usually have a fixed smallest word sie that you can access. This is usually a multiple
+Processors usually have a fixed smallest word size that you can access. This is usually a multiple
 of 8 bits in most modern architecutres. So lets say you want to store some data that you know 
 requires only 10 bits. But for that, you will end up using 16 bits. While for most cases this
 is not an issue, it is an issue in case of compression algorithms and large data communication.
